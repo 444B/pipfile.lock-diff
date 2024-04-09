@@ -41,3 +41,4 @@ if __name__ == '__main__':
     print("Summary:\n\n", summary)
     print("\nDiffs:", diffs)
     print("\nVersion differences:", version_diffs)
+
